@@ -1,6 +1,13 @@
-## TODO APP con Typescript
+# TODO APP con Typescript
 Esta es una simple app de todo con las funcionalidades de crear un todo, editarlo, removerlo, eliminar todos los completarlos, y filtrarlos por completados, sin completar o mostrar todos. Esta aplicacion fue creada con vite, react y typescript. 
 
+## Correr el proyecto
+```
+pnpm install
+pnpm run dev
+```
+
+## Objetivos del proyecto
 - [x] Inicializar proyecto con vite
 - [x] Añadir linter para Typescript + React
 - [x] Añadir estilos del [TodoMVC](https://github.com/tastejs/todomvc-app-css)
